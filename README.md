@@ -1,6 +1,6 @@
-# myapp
+# App Calculadora
 
-A new Flutter project.
+Programa desenvolvido como atividade para a Unidade 3 da dicciplina 11 (Desenvolvimento Web) do programa Talento Tech - PR.
 
 ## Getting Started
 
